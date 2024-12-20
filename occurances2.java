@@ -25,8 +25,6 @@ public class Main
 		    }System.out.println(arr[i]+"->"+count);
 		    arr[i]=-1;
 		}
-			for(int i=0;i<n;i++){
-		    System.out.print(arr[i]+" ");
-		}
+	
 	}
 }
